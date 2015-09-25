@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-cdc05bc974768d8ea98147383a2fc8435eb6cb47.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-0b6b7408aa3a1ae2b084817d53d758090a29b6f2.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-5ef3760868ff9cac9e144e132b058b5e7f949c30.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-2211394280b541f95bb5b67b7266b1d8f22d9138.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-333232d91deb6d42ebc1420bca32862215f29b72.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0-90bd94b190d34095cfb2f229569e390f038f7307.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-5251d79e5c4e812a256d821ba4bb0393095525ce.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-84c51e1fa93b95b0c3d792a2c68f8950e8c469c8.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-ebf2343d5e71bc7fd389dd2dfb16c17b587d976a.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-723794cb347193632e901fb62a75f37d27343354.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-296ca99f4bc2b1b13dca61f884dafdd6ea1540ae.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8b3d9a7b348d8bcfb4d740dfaf70bc374cdae9d6">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-0345a7e138e3807572bfeb7b6f37f2e48de723cd.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b08a58bc27ea6a5e41450214cc10b403a24899ab.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-6f42b8c5d9a20b61606b42bcf96a1ee1477bab6a.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-bd044f4db0aa491158e7045718e9db74788f9f7d.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-5bc21b8b17b9baae2fddd48b9447323d88511f07.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/gson-2.3.1-9f75271177271ff2ce7b924c43072b864a9c16f1.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/glide-3.6.0-de258c36212e81c657c76848c2bbfca0c703e966.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-35f49719cada4ef4e99579062324157158988e75.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-1aa24d9d8b339cc649342e02a227662edaea2f7b.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-4d2ce6da73e3634230d6b9c51847b876205ce08f.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-f7e6537207b1bbc69e085676b3c8136f17ec890d.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/jp.wasabeef/recyclerview-animators/1.2.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-8e4002bfcd6f0469fc5baf366f54ee968ce3de89.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-70c06ef75be4737db06cfc1704aaf7ba45163150.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-4cef2f940e3f7ba064d9e6b1b03ad221c7fe5988.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-e95073cd854df6b41612c6e1b5b30950a096088d.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-5333cd641d5b3fd6621e3357c3f19422cbfd6660.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-a1e48f5480686450bd408ecef609c9c909b4b469.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-c0aaf692e5a95282a881c7ee3a111bf9e7608ffe.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/4.273.4/318152e2a0f63d2bd92daee67ab6dbd0d32c26dd/android-agent-4.273.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="318152e2a0f63d2bd92daee67ab6dbd0d32c26dd">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/android-agent-4.273.4-5f20cc8770f4b138264dad3683a61b18e8d09757.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-ce6c777e129b41e5036e5256f1944edb2b9dd7c7.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-c9a26b0fc6ba94b232fafc962721f1a28e5e8c70.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-61bfa09c16f4fe8469a4c649e74ff3abbb20c54c.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-ee74845b1a5db7dc95cb3dfe231d6c1742f4feed.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-7e569ac165149a85914402fee3675c5fdb2ca2af.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.13/b8668706414b5936d38c8a9e4c2be16e3c999c62/rxjava-1.0.13.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b8668706414b5936d38c8a9e4c2be16e3c999c62">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/rxjava-1.0.13-9c552ff002d08fd4f60483eb044029bf9fd9bb87.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-7b5359a85d8ce01ec1420b2b5b6151f2fd4591de.jar" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/ryan/Desktop/OneSound Public/app/build/intermediates/pre-dexed/debug/classes-5ac8a9a858952b28cb8a0bcf152df122757b2e45.jar" />
+    </item>
+
+</items>

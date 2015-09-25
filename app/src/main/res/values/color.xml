@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_preloader_center">#FFF</color>
+    <color name="color_preloader_start">#32c8f4</color>
+    <color name="color_preloader_end">#32c8f9</color>
+
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#929990</color>
+    <color name="colorPrimaryAccent">#32C8F4</color>
+    <color name="colorLightGrey">#F5F5F5</color>
+
+
+    <color name="onesoundGreenLight">#803EB058</color>
+    <color name="onesoundGreenLightNonTransparent">#3EB058</color>
+    <color name="onesoundGreenDark">#22582f</color>
+
+    <color name="onesoundBlueLight">#801E84C2</color>
+    <color name="onesoundBlueDark">#285F7F</color>
+
+    <color name="green_text">#669900</color>
+    <color name="orange_text">#FF8800</color>
+    <color name="red_text">#CC0000</color>
+
+    <color name="user_red">#EF9A9A</color>
+    <color name="user_purple">#CE93D8</color>
+    <color name="user_terqouise">#80CBC4</color>
+    <color name="user_yellow">#E6EE9C</color>
+    <color name="user_orange">#FFCC80</color>
+
+    <color name="transp_black_5">#0d000000</color>
+    <color name="transp_white_50">#80FFFFFF</color>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="75dp">
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/defaultuserimageformainparty"
+        android:contentDescription="@string/imgdis"
+        android:id="@+id/AlbumArt"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout2"
+        android:layout_gravity="center"
+        android:paddingLeft="10dp">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:text="@string/medium_text"
+            android:textColor="@android:color/white"
+            android:singleLine="true"
+            android:id="@+id/SongName"
+            android:layout_weight=".25" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@android:color/white"
+            tools:text="@string/small_text"
+            android:id="@+id/Artist"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+        <!--<Button-->
+            <!--android:paddingLeft="5dp"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Add to playlist"-->
+            <!--android:textSize="10dp"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:textColor="#ffffff"-->
+            <!--android:visibility="visible"-->
+            <!--android:background="@drawable/rounded_blue_button"-->
+            <!--android:id="@+id/AddToPlaylist"/>-->
+    <ImageView
+        android:paddingLeft="5dp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_add_song_white"
+        android:layout_gravity="center"
+        android:id="@+id/AddToPlaylist"/>
+
+</LinearLayout>

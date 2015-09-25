@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/edit_user_fragment">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/partyname"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:width="250dp"
+        android:height="50dp"
+        android:layout_below="@+id/namelable"
+        android:hint="@string/dj_name"
+        android:maxLength="15"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 !@#$%*?"/>
+        <!--android:digits field lists all accptable digits for edit text-->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/partyname"
+        android:layout_alignLeft="@+id/partyname"
+        android:layout_marginTop="20dp"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/edit_user_color"
+            android:id="@+id/colorlable"
+            android:paddingTop="20dp"
+            android:textSize="@dimen/abc_text_size_large_material"/>
+
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:textSize="@dimen/abc_text_size_large_material"/>
+
+    </LinearLayout>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"
+        android:id="@+id/submitbutton"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_user"
+        android:id="@+id/namelable"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_alignRight="@+id/partyname"
+        android:layout_alignLeft="@id/partyname"
+        android:layout_marginTop="50dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/lettercount"
+        android:layout_below="@+id/namelable"
+        android:layout_toRightOf="@+id/partyname"
+        android:layout_toEndOf="@+id/partyname"
+        android:textSize="20sp"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/ic_headphone"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/headphone_icon"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/headphone_icon"
+        tools:text="Party name is really "
+        android:layout_marginLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffff"
+        android:id="@+id/party_name"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/party_name"
+        android:layout_alignStart="@+id/party_name">
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".3"
+            android:layout_gravity="left|bottom"
+            android:layout_marginBottom="7dp"
+            android:id="@+id/user_icon"
+            android:src="@drawable/ic_person" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content"
+        tools:text="New Text"
+        android:layout_gravity="bottom"
+        android:textColor="#FFFF"
+        android:id="@+id/host_name"
+        android:layout_marginBottom="5dp"
+        android:gravity="left" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:id="@+id/user_count"
+            tools:text="4 people"
+            android:textColor="#ffff"
+            android:layout_weight="2"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/distance"
+            tools:text="4 blocks"
+            android:gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textColor="#ffff"
+            android:layout_weight="2"
+            android:drawableTop="@drawable/ic_marker"/>
+</LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_create_party"
+    android:fitsSystemWindows="false"
+    android:gravity="center"
+    android:background="@drawable/gradient_dark">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/create_party"
+        android:id="@+id/namelable"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linear1"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/namelable"
+        android:layout_centerHorizontal="true">
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@android:color/white"
+            app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout"
+            android:focusableInTouchMode="true">
+        <!--android:digits field lists all accptable digits for edit text-->
+        <EditText
+            android:layout_width="200dp"
+            android:textSize="@dimen/abc_text_size_medium_material"
+            android:layout_height="wrap_content"
+            android:id="@+id/partyname"
+            android:width="200dp"
+            android:height="50dp"
+            android:layout_marginLeft="0dp"
+            android:hint="@string/party_name"
+            android:maxLength="15"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 !@#$%*?"/>
+        </android.support.design.widget.TextInputLayout>
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="50dp"
+            android:text="@string/zero_15"
+            android:textColor="@android:color/white"
+            android:id="@+id/lettercount"
+            android:textSize="@dimen/abc_text_size_large_material" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:id="@+id/linear3"
+        android:layout_marginTop="20dp"
+        android:layout_alignLeft="@+id/linear1"
+        android:orientation="horizontal"
+        android:layout_below="@+id/linear1"
+        android:layout_centerHorizontal="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/strictness_tag"
+                android:id="@+id/privacyTV"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/abc_text_size_medium_material"
+                android:layout_gravity="center"/>
+
+            <Spinner
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:textColor="@android:color/white"
+                android:id="@+id/strictness_spinner"
+                android:textSize="@dimen/abc_text_size_large_material"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/linear3"
+        android:id="@+id/linear4"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/linear3"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/private_tag"
+            android:textColor="@android:color/white"
+            android:layout_marginRight="30dp"
+            android:id="@+id/StrictnessTV"
+            android:textSize="@dimen/abc_text_size_medium_material"
+            android:layout_gravity="center"/>
+        <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginStart="20dp"
+            android:id="@+id/privacySwitch"
+            android:textSize="@dimen/abc_text_size_medium_material"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/button_margin"
+        android:text="@string/submit"
+        android:id="@+id/submitbutton"
+        android:layout_below="@+id/linear4"
+        android:background="@drawable/rounded_white_transp_button"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="40dp"/>
+
+    <Button
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/button_margin"
+        android:id="@+id/help"
+        android:layout_below="@id/submitbutton"
+        android:background="@drawable/rounded_white_transp_button"
+        android:textColor="#FFFFFF"
+        android:text="@string/help"/>
+
+
+</RelativeLayout>
